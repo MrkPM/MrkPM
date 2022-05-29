@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrkPM
 - 👀 I’m interested in CSS, JavaScript (Node.JS, React), MySQL and Python.
-- 🌱 I’m currently learning thise mentioned above
+- 🌱 I’m currently learning those mentioned above
 
 <!---
 
